@@ -208,7 +208,7 @@ public class J2_ChenV
 	int hours, mins, totalTime, numLines;
 	double drivingTime = 0;
 	final int MORNINGSTART = 420, MORNINGEND = 600;
-	final int AFTERNOONSTART = 900, AFTERNOONEND = 1140;
+	final int AFTERNOONSTART = 960, AFTERNOONEND = 1140;
 
 	try
 	{
